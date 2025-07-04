@@ -1,4 +1,5 @@
 ## Hi there 👋 [![](https://visitcount.itsvg.in/api?id=Mangaliso-Maduna&icon=4&color=0)](https://visitcount.itsvg.in)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F771B9&width=435&lines=Hi+there+👋+!;I'm+Mangaliso+Maduna+(Mangi))](https://git.io/typing-svg)
 
 
 Here are some ideas to get you started:
